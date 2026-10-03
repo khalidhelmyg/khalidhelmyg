@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Khaled Helmy
+# 👋 Hi, I'm Khalid Helmy
 
-### 🚀 Software Engineer | Node.js Backend Engineer | NestJs | MEARN Stack Specialist
+### 🚀 Software Engineer | Backend Developer | Node.js | NestJs | MEARN Stack Specialist
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;MEARN+Stack+Developer;NestJS+Enthusiast+And+Microservices;Always+Learning+New+Technologies)](https://github.com/khaledhelmyg)
 
