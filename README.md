@@ -26,7 +26,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 ## 📊 GitHub Stats
 
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledhelmyg&theme=ayu_mirage&quot)](https://github.com/khaledhelmyg)
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalidhelmyg&theme=ayu_mirage&quot)](https://github.com/khalidhelmyg)
 
 ---
 
