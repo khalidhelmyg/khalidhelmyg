@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Khalid Helmy
 
-### 🚀 Software Engineer | Backend Developer | Node.js | NestJs | MEARN Stack Specialist
+### 🚀 Software Engineer | Backend Developer | Node.js | NestJs | Microservices 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;MEARN+Stack+Developer;NestJS+Enthusiast+And+Microservices;Always+Learning+New+Technologies)](https://github.com/khaledhelmyg)
 
@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 - 🔭 **Currently Working**: Backend Development at **Md Soft**
 - 🌱 **Currently Learning**: Advanced System Design
-- 💬 **Ask Me About**: Node.js, Express.js, NestJS, MongoDB, PostgreSQL, GraphQL, Angular, Microservices, Kafka, Redis, Docker
+- 💬 **Ask Me About**: Node.js, Express.js, NestJS, WebSockets, MongoDB, PostgreSQL, GraphQL, Angular, Microservices, Kafka, Redis, Docker
 - 📍 **Location**: Cairo Egypt
 - 📧 **Email**: khaledhelmyelkefafy@gmail.com
 - ❤️ **Portfolio** https://khaledhelmy.lovable.app/
