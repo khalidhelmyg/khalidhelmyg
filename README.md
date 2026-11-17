@@ -3,8 +3,12 @@
 # 👋 Hi, I'm Khalid Helmy
 
 ### 🚀 Software Engineer | Backend Developer | Node.js | NestJs | Microservices 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer;Building+Scalable+Backend+Applications;Node.js+%7C+TypeScript+%7C+NestJS;Microservices+%26+Distributed+Systems;APIs+%7C+Databases+%7C+System+Design)](https://github.com/khalidhelmyg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;MEARN+Stack+Developer;NestJS+Enthusiast+And+Microservices;Always+Learning+New+Technologies)](https://github.com/khaledhelmyg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-helmy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/khalidhelmyg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khaledhelmyelkefafy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=flat&logo=vercel&logoColor=white)](https://khaledhelmy.lovable.app/)
 
 </div>
 
@@ -26,7 +30,14 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 ## 📊 GitHub Stats
 
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalidhelmyg&theme=ayu_mirage&quot)](https://github.com/khalidhelmyg)
+<div align="center">
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalidhelmyg&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalidhelmyg&theme=github-dark-blue&hide_border=true)
+
+</div>
+
 
 ---
 
@@ -82,20 +93,6 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 ---
 
-## 📱 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-helmy)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18642096)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/VCR6S7GI4C3MA1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledhelmyelkefafy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhelmyg)
-
-</div>
-
----
-
 ## 📄 Experience & Resume
 
 For detailed information about my professional experience, skills, and projects, check out my [comprehensive resume](https://docs.google.com/document/d/16xUJsBUsq4A00cebn-M11CYPua6vqouD/edit?usp=drivesdk&ouid=104217138230679494990&rtpof=true&sd=true)
@@ -120,7 +117,10 @@ I love connecting with developers, tech enthusiasts, and anyone interested in bu
 
 <div align="center">
 
-### [📧 Email Me](mailto:khaledhelmyelkefafy@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/khalid-helmy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-helmy)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidhelmyg)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledhelmyelkefafy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://khaledhelmy.lovable.app/)
 
 </div>
 
