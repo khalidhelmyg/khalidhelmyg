@@ -23,7 +23,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 - 💬 **Ask Me About**: Node.js, Express.js, NestJS, WebSockets, MongoDB, PostgreSQL, GraphQL, Angular, Microservices, Kafka, Redis, Docker
 - 📍 **Location**: Cairo Egypt
 - 📧 **Email**: khaledhelmyelkefafy@gmail.com
-- ❤️ **Portfolio** https://khaledhelmy.lovable.app/
+- ❤️ **Portfolio** https://khalidhelmy.lovable.app/
 - 🎯 **Goal**: Building elegant, maintainable, and scalable solutions
 
 ---
