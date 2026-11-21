@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-helmy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/khalidhelmyg)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khaledhelmyelkefafy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=flat&logo=vercel&logoColor=white)](https://khaledhelmy.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=flat&logo=vercel&logoColor=white)](https://khalidhelmy.lovable.app/)
 
 </div>
 
@@ -26,6 +26,8 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 - ❤️ **Portfolio** https://khalidhelmy.lovable.app/
 - 🎯 **Goal**: Building elegant, maintainable, and scalable solutions
 
+Open to:  Software Engineer · Backend Engineer · Full-Stack Engineer roles.
+
 ---
 
 ## 📊 GitHub Stats
@@ -38,6 +40,49 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 </div>
 
+---
+
+## Featured: nestjs-realtime-sdk
+
+<p>
+  <a href="https://www.npmjs.com/package/nestjs-realtime-sdk"><img src="https://img.shields.io/npm/v/nestjs-realtime-sdk?style=flat-square&logo=npm&label=npm" alt="npm version"/></a>
+  <a href="https://www.npmjs.com/package/nestjs-realtime-sdk"><img src="https://img.shields.io/npm/dm/nestjs-realtime-sdk?style=flat-square&label=downloads" alt="npm monthly downloads"/></a>
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT license"/>
+</p>
+
+A lightweight, extensible NestJS SDK for **1-to-1 real-time audio/video calling** powered by WebRTC and Socket.IO. Build and own your calling infrastructure instead of relying on costly third-party platforms like ZEGOCLOUD or Agora. Reduce recurring service costs while retaining full control over call lifecycle, signaling, user presence, database, and push notifications.
+### Installation
+
+**Install via npm**
+
+```bash
+npm install nestjs-realtime-sdk
+```
+
+```ts
+RealtimeCallingModule.forRootAsync({
+  imports: [CallPersistenceModule],
+  useFactory: (repo: CallRepository, notify: CallNotificationService) => ({
+    callRepository: repo,
+    notificationService: notify,
+  }),
+  inject: [CallRepository, CallNotificationService],
+});
+```
+
+**Design decisions**
+
+- **Explicit call state machine:** ringing → active / rejected / ended. Invalid transitions are rejected, and calls are cleaned up automatically when a user disconnects.
+- **Optimistic locking:** concurrent accept-call races are resolved with version fields instead of ad-hoc checks.
+- **Pluggable ports:** persistence and push notifications are interfaces (`ICallRepository`, `INotificationService`), so the SDK has no database driver, FCM SDK, or platform lock-in.
+- **Signaling relay:** offer, answer, and ICE payloads are forwarded unmodified and never logged.
+- **Strict TypeScript:** typed events, payloads, and errors, for NestJS 11.
+
+**Production notes it covers:** TURN servers for users behind symmetric NAT, authenticating `userId` before the socket handshake, explicit Socket.IO CORS, and a Redis adapter for multi-instance deployments.
+
+> The source is private. Docs and examples ship inside the package.
+
+**Write-ups:** *What a Video Call Backend Actually Does* (Medium)
 
 ---
 
@@ -93,24 +138,6 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 ---
 
-## 📄 Experience & Resume
-
-For detailed information about my professional experience, skills, and projects, check out my [comprehensive resume](https://docs.google.com/document/d/16xUJsBUsq4A00cebn-M11CYPua6vqouD/edit?usp=drivesdk&ouid=104217138230679494990&rtpof=true&sd=true)
-
----
-
-## 🏆 Key Strengths
-
-- ✅ **Backend Architecture** - Designing scalable, maintainable systems
-- ✅ **Full Stack Development** - Seamless integration of frontend & backend
-- ✅ **Code Quality** - Clean, well-documented, and tested code
-- ✅ **Problem Solving** - Tackling complex technical challenges
-- ✅ **Team Collaboration** - Effective communication and teamwork
-- ✅ **Performance Optimization** - Enhancing speed and efficiency
-- ✅ **Security** - Implementing secure best practices
-
----
-
 ## 💬 Let's Connect!
 
 I love connecting with developers, tech enthusiasts, and anyone interested in building amazing things. Whether you want to discuss tech, collaborate on projects, or just chat:
@@ -121,17 +148,5 @@ I love connecting with developers, tech enthusiasts, and anyone interested in bu
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidhelmyg)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledhelmyelkefafy@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://khaledhelmy.lovable.app/)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving my repositories a star! It means a lot ⭐
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-**Thanks for visiting! Happy Coding! 🚀**
 
 </div>
